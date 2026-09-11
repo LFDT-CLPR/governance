@@ -30,7 +30,7 @@ repositories:
       clpr-maintainers: maintain
       lfdt-staff: maintain
     visibility: public
-  - name: tsc
+  - name: governance
     teams:
       clpr-maintainers: maintain
       lfdt-staff: admin
