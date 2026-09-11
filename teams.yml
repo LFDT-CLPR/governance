@@ -1,0 +1,37 @@
+teams:
+  - name: clpr-maintainers
+    maintainers: []
+      - edward-swirldslabs
+    members: []
+  - name: lfdt-staff
+    maintainers:
+      - ryjones
+    members:
+      - jwagantall
+      - thelinuxfoundation
+repositories:
+  - name: .github
+    teams:
+      clpr-maintainers: maintain
+      lfdt-staff: admin
+    visibility: public
+  - name: clpr-endpoint
+    teams:
+      clpr-maintainers: maintain
+      lfdt-staff: maintain
+    visibility: public
+  - name: clpr-smart-contracts
+    teams:
+      clpr-maintainers: maintain
+      lfdt-staff: maintain
+    visibility: public
+  - name: clpr-spec
+    teams:
+      clpr-maintainers: maintain
+      lfdt-staff: maintain
+    visibility: public
+  - name: tsc
+    teams:
+      clpr-maintainers: maintain
+      lfdt-staff: admin
+    visibility: public
