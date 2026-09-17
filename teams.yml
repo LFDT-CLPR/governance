@@ -1,6 +1,6 @@
 teams:
   - name: clpr-maintainers
-    maintainers: []
+    maintainers:
       - edward-swirldslabs
     members: []
   - name: lfdt-staff
