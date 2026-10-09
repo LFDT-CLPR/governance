@@ -2,7 +2,8 @@ teams:
   - name: clpr-maintainers
     maintainers:
       - edward-swirldslabs
-    members: []
+    members:
+      - hendrikebbers
   - name: lfdt-staff
     maintainers:
       - ryjones
