@@ -1,15 +1,53 @@
+
 teams:
   - name: clpr-maintainers
     maintainers:
       - edward-swirldslabs
     members:
       - hendrikebbers
+      - SimiHunjan
+  - name: clpr-release-engineers
+    maintainers:
+      - nathanklick
+      - rbarker-dev
+    members:
+      - andrewb1269
+      - jnels124
+  - name: clpr-endpoint-committers
+    maintainers:
+      - mxtartaglia-sl
+    members:
+      - timo0
+      - lukasz-hashgraph
+      - ashumahajan
+  - name: clpr-smart-contracts-committers
+    maintainers:
+      - BartoszSolkaBD
+    members:
+      - bootcodes
+      - jasuwienas
+      - Ferparishuertas
+      - Neeharika-Sompalli
+      - tinker-michaelj
+      - viniciusjssouza
+      - mhess-swl
+      - JivkoKelchev
+  - name: clpr-spec-committers
+    maintainers:
+      - edward-swirldslabs
+    members:
+      - rbair23
   - name: lfdt-staff
     maintainers:
       - ryjones
     members:
       - jwagantall
       - thelinuxfoundation
+  - name: security-maintainers
+    maintainers:
+      - dr20240304
+    members:
+      - diogper
 repositories:
   - name: .github
     teams:
