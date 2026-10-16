@@ -8,22 +8,25 @@ teams:
       - SimiHunjan
   - name: clpr-release-engineers
     maintainers:
+      - edward-swirldslabs
+    members:
       - nathanklick
       - rbarker-dev
-    members:
       - andrewb1269
       - jnels124
   - name: clpr-endpoint-committers
     maintainers:
-      - mxtartaglia-sl
+      - edward-swirldslabs
     members:
+      - mxtartaglia-sl
       - timo0
       - lukasz-hashgraph
       - ashumahajan
   - name: clpr-smart-contracts-committers
     maintainers:
-      - BartoszSolkaBD
+      - edward-swirldslabs
     members:
+      - BartoszSolkaBD
       - bootcodes
       - jasuwienas
       - Ferparishuertas
@@ -45,8 +48,9 @@ teams:
       - thelinuxfoundation
   - name: security-maintainers
     maintainers:
-      - dr20240304
+      - edward-swirldslabs
     members:
+      - dr20240304
       - diogper
 repositories:
   - name: .github
