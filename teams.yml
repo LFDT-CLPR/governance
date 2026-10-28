@@ -60,16 +60,25 @@ repositories:
   - name: clpr-endpoint
     teams:
       clpr-maintainers: maintain
+      clpr-endpoint-committers: write
+      clpr-release-engineers: write
+      security-maintainers: write
       lfdt-staff: maintain
     visibility: public
   - name: clpr-smart-contracts
     teams:
       clpr-maintainers: maintain
+      clpr-smart-contracts-committers: write
+      clpr-release-engineers: write
+      security-maintainers: write
       lfdt-staff: maintain
     visibility: public
   - name: clpr-spec
     teams:
       clpr-maintainers: maintain
+      clpr-spec-committers: write
+      clpr-release-engineers: write
+      security-maintainers: write
       lfdt-staff: maintain
     visibility: public
   - name: governance
