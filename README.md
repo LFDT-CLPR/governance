@@ -4,7 +4,7 @@
 
 This repository contains all governance documents of the CLPR project:
 
-- The `config.yaml` file that is used to configure all GitHub repositories of the organization.
+- The `teams.yaml` file that is used to configure all GitHub repositories of the organization.
   https://clowarden.io is used as tool to manage the GitHub resources and the change list for all Hiero repos can be found [here](https://clowarden.io/audit/?organization=LFDT-CLPR).
 
 Join our weekly sync calls: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs?view=week&occurrence=1793023200
