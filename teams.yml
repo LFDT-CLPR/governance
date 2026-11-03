@@ -39,6 +39,11 @@ teams:
       - edward-swirldslabs
     members:
       - rbair23
+  - name: clpr-website-committers
+    maintainers:
+      - edward-swirldslabs
+    members:
+      - danielmarv
   - name: lfdt-staff
     maintainers:
       - ryjones
@@ -77,6 +82,14 @@ repositories:
     teams:
       clpr-maintainers: maintain
       clpr-spec-committers: write
+      clpr-release-engineers: write
+      security-maintainers: write
+      lfdt-staff: maintain
+    visibility: public
+  - name: clpr-website
+    teams:
+      clpr-maintainers: maintain
+      clpr-website-committers: write
       clpr-release-engineers: write
       security-maintainers: write
       lfdt-staff: maintain
