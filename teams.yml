@@ -17,6 +17,7 @@ teams:
     maintainers:
       - edward-swirldslabs
     members:
+      - rwalworth
       - Neurone
       - mgarbs
   - name: clpr-endpoint-committers
