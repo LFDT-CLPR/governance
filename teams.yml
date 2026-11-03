@@ -13,6 +13,12 @@ teams:
       - rbarker-dev
       - andrewb1269
       - jnels124
+  - name: clpr-e2e-committers
+    maintainers:
+      - edward-swirldslabs
+    members:
+      - Neurone
+      - mgarbs
   - name: clpr-endpoint-committers
     maintainers:
       - edward-swirldslabs
@@ -56,6 +62,14 @@ repositories:
     teams:
       clpr-maintainers: maintain
       lfdt-staff: admin
+    visibility: public
+  - name: clpr-e2e
+    teams:
+      clpr-maintainers: maintain
+      clpr-e2e-committers: write
+      clpr-release-engineers: write
+      security-maintainers: write
+      lfdt-staff: maintain
     visibility: public
   - name: clpr-endpoint
     teams:
