@@ -20,6 +20,8 @@ teams:
       - rwalworth
       - Neurone
       - mgarbs
+      - EMerchant90
+      - RaphaelMessian
   - name: clpr-endpoint-committers
     maintainers:
       - edward-swirldslabs
@@ -73,6 +75,8 @@ repositories:
     teams:
       clpr-maintainers: maintain
       clpr-e2e-committers: write
+      clpr-endpoint-committers: write
+      clpr-smart-contracts-committers: write
       clpr-release-engineers: write
       security-maintainers: write
       lfdt-staff: maintain
