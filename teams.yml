@@ -47,7 +47,12 @@ teams:
     maintainers:
       - edward-swirldslabs
     members:
-      - rbair23
+      - Neeharika-Sompalli
+      - jasuwienas
+      - lukasz-hashgraph
+      - mhess-swl
+      - tinker-michaelj
+      - viniciusjssouza
   - name: clpr-website-committers
     maintainers:
       - edward-swirldslabs
@@ -101,8 +106,8 @@ repositories:
     teams:
       clpr-maintainers: maintain
       clpr-spec-committers: write
-      clpr-release-engineers: write
-      security-maintainers: write
+      clpr-release-engineers: triage
+      security-maintainers: triage
       lfdt-staff: maintain
     visibility: public
   - name: clpr-website
